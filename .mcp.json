@@ -2,5 +2,7 @@
   "chrome-devtools": {
     "command": "npx",
     "args": ["chrome-devtools-mcp@latest"]
+    "args_at_known": space-serval
+    "module" : 1
   }
 }
